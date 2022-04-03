@@ -1,0 +1,19 @@
+body
+{
+    background-color: aquamarine;
+}
+#user_name
+{
+background-color: yellow;
+font-style: italic;
+}
+#login_button
+{
+background-color: yellow;
+font-style: italic;
+}
+label
+{
+background-color: yellow;
+font-style: italic;
+}
